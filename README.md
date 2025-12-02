@@ -25,7 +25,7 @@ Harness segmentation & branch logic
 
 🧩 Key Components Used
 
-OEM-style connectors (TE, Bosch, Molex)
+OEM-style connectors (TE-AMP-Superseal)
 ISO 6722 Class A/B wires (0.35–2.5 sq.mm)
 
 ---
